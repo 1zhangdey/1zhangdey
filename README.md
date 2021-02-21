@@ -1,7 +1,7 @@
-### Hi there 👋
+ Hi there 👋
 
 
-- 🔭 I’m currently working on Competitive Coding.
+- 🔭 I’m currently working on something secret :yum:.
 - 🌱 I’m currently learning C++,Dart, Javascript.
 - 📫 Reach me on Discord: kingmaker#0569
 
