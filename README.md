@@ -1,7 +1,7 @@
  Hi there 👋
- Currently working @techintern.io. 
+ Currently working on my solidity skills ;)
 
 - 🔭 I’m currently working on something secret :yum:.
 - 🌱 I’m currently learning Dart and Javascript.
-- 📫 Reach me on Discord: kingmaker#0569
+- 📫 Reach me on Discord: kingmaker#0001
 
